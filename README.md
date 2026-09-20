@@ -1,8 +1,8 @@
 # Ex.No.5 — Comparing Prompting Techniques Through Engineering Problem-Solving Scenarios
 
-NAME: JANDA HEMANTH
+# NAME: JANDA HEMANTH
 
-REGISTER NUMBER: 212223030015
+# REGISTER NUMBER: 212223030015
 
 # AIM
 
